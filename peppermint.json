@@ -11,6 +11,14 @@
     "windows-arm64": "",
     "windows-x64-zip": "https://github.com/montanari-luca/Peppermint/releases/download/BETA-2026.0.3/Peppermint-windows-setup.2026-0-3.zip",
     "linux-x64": "",
-    "linux-arm64": ""
+    "linux-arm64": "",
+    "macos": "https://github.com/montanari-luca/Peppermint/releases/download/BETA-2026.0.3/Peppermint-macos-2026-0-3.dmg",
+    "windows": "https://github.com/montanari-luca/Peppermint/releases/download/BETA-2026.0.3/Peppermint-windows-setup.2026-0-3.zip"
+  },
+  "sha256": {
+    "macos-universal": "3b01bdbc7529645a2c842e8757f96ba3e9ee7e28ab5241b9e10b8188a4a6c0df",
+    "macos": "3b01bdbc7529645a2c842e8757f96ba3e9ee7e28ab5241b9e10b8188a4a6c0df",
+    "windows-x64": "32b1f4ebe9da856a70cfdd0df878f582c0111cf48bb0b77c9037d54a82beaa26",
+    "windows": "32b1f4ebe9da856a70cfdd0df878f582c0111cf48bb0b77c9037d54a82beaa26"
   }
 }
